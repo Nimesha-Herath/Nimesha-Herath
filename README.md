@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<a target="_blank" href="#">
+<a target="_blank" href="#" style="color: yellow">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="#">
